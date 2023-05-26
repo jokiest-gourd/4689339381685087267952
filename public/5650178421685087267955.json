@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283841391650",
+    "project_id": "raz-entertainment",
+    "storage_bucket": "raz-entertainment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283841391650:android:5bd11fba6eb52f250f6e7b",
+        "android_client_info": {
+          "package_name": "com.raz.djviral.djcampuran.viraltiktokfyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZUGhdsIOAu47On9h71oQXnjyXYegY0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
